@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of datitisev/flarum-discussion-agree-message.** Not for installation: use [Packagist](https://packagist.org/packages/datitisev/flarum-discussion-agree-message) or the [upstream repository](https://github.com/dsevillamartin/flarum-discussion-agree-message).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/datitisev-flarum-discussion-agree-message/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/datitisev-flarum-discussion-agree-message/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-09-02 | `^1.0.0` | [Browse](https://github.com/flarchive/datitisev-flarum-discussion-agree-message/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-09-02 | `^1.0.0` | [Browse](https://github.com/flarchive/datitisev-flarum-discussion-agree-message/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-09-05 | `^1.0.0` | [Browse](https://github.com/flarchive/datitisev-flarum-discussion-agree-message/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/datitisev-flarum-discussion-agree-message.json](https://github.com/flarchive/archive-index/blob/main/packages/datitisev-flarum-discussion-agree-message.json)
 
